@@ -21,6 +21,7 @@ This is customizable and can be extended to also automatically change text color
 
 ## Compatibility
 Tested and confirmed working:
+- RPG Maker MV
 - RPG Maker MZ
 
 ## Terms of Use
